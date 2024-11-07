@@ -1,0 +1,17 @@
+E:\УП 02.01\Repair\Repair\bin\Debug\Repair.exe.config
+E:\УП 02.01\Repair\Repair\bin\Debug\Repair.exe
+E:\УП 02.01\Repair\Repair\bin\Debug\Repair.pdb
+E:\УП 02.01\Repair\Repair\obj\Debug\Repair.csproj.AssemblyReference.cache
+E:\УП 02.01\Repair\Repair\obj\Debug\Repair.Applications.resources
+E:\УП 02.01\Repair\Repair\obj\Debug\Repair.Authorization.resources
+E:\УП 02.01\Repair\Repair\obj\Debug\Repair.Form1.resources
+E:\УП 02.01\Repair\Repair\obj\Debug\Repair.Form2.resources
+E:\УП 02.01\Repair\Repair\obj\Debug\Repair.Form3.resources
+E:\УП 02.01\Repair\Repair\obj\Debug\Repair.HistoryApplications.resources
+E:\УП 02.01\Repair\Repair\obj\Debug\Repair.Properties.Resources.resources
+E:\УП 02.01\Repair\Repair\obj\Debug\Repair.Registration.resources
+E:\УП 02.01\Repair\Repair\obj\Debug\Repair.csproj.GenerateResource.cache
+E:\УП 02.01\Repair\Repair\obj\Debug\Repair.csproj.CoreCompileInputs.cache
+E:\УП 02.01\Repair\Repair\obj\Debug\Repair.exe
+E:\УП 02.01\Repair\Repair\obj\Debug\Repair.pdb
+E:\УП 02.01\Repair\Repair\obj\Debug\Repair.Othet.resources
